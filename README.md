@@ -15,45 +15,8 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 ## 交流共享
 
-【1】欢迎👏🏻👏🏻👏🏻加入ChatGP交流群，与AI领域专家和各行各业的ChatGPT爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入群体！目前1/2/3群都满500人，4群需要邀请进入  
-【2】创建付费知识星球，目前处于已正式运营，已有100+朋友加入，星球有「星球专属vip社群」、分享实时信息、技术实践、项目落地、商业变现等。  
-【3】帮朋友推荐一个AI商业解析项目，截止目前，已更新40篇文章，订阅者3000+，不是免费🆓的，需要一顿饭钱,之前价格22，现在价格36，内容持续更新,价格持续上涨......  
+与AI领域专家和各行各业的ChatGPT爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入群体！
 
-|  二维码加群   | 拉你入群(备注ChaGPT-github)  |
-|  ----  | ----  |
-| <img src="pic/ChatGPT5.jpeg" width="200" />  | <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="200"/> |
-
-| 加入星球(更多优质内容) | 星球限时优惠卷 | AI商业解析项目 |
-| ----  | ----  | ----  |
-| <img src="pic/星球最新2.jpeg" width="200" /> | <img src="pic/星球优惠券28-last.png" width="200" /> | <img src="pic/AI商业化2.png" width="200" /> | 
-
-
-## 飞书文档
-
-飞书文档【『紧跟ChatGPT风向』持续更新中】，包含ChatGPT、百度文心一言、微软New Bing、谷歌-Nard、AI绘画等相关基础问题和资料学习，文档地址：https://szqxz4m7fs.feishu.cn/docx/UhuedqlJVo7rl9xOKfuchSQqn4g  
-
-<!--
-
-## 交流共享
-【1】ChatGPT技术交流群，新开的③群，群满加我微信拉你一起交流学习(备注github-ChatGPT)  
-【2】注册ChatGPT账号麻烦的可以私信我取账号  
-【3】更多有价值的内容在ChatGPT星球，目前处于试运营阶段，最多可进50人，可私信大林领取优惠券  
-
-<img src="pic/Chat3.jpeg" width="23%" height="23%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="20%" height="20%" /> <img src="pic/紧跟ChatGPT星球.jpeg" width="23%" height="23%" /> <img src="pic/紧跟优惠卷28.jpeg" width="23%" height="23%" />  
-
-## 推荐项目
-## AI商业化(过后删)
-帮朋友推荐一个AI商业解析项目，截止目前，已更新40篇文章，订阅者3000+，不是免费🆓的，需要一顿饭钱,之前价格22，现在价格36，内容持续更新,价格持续上涨......
-研究主题是“AI商业变现项目”，国外的AI应用层项目已经看到近千款，有文本(辅助写作、营销文案、品牌介绍文案)、图片(头像、商务图像、人像精修)、音频(催眠类的、播客)、视频(AI视频)等等。国内AI应用层项目很少，所以我会挑出来体验过的AI商业项目写总结、分析到本专栏。如果你对AI商业变现项目感兴趣，需要持续有案例启发可以订阅;
-
-<img src="pic/AI商业化2.png" width="50%" height="50%" /> 
-
-## Midjourney进阶创意库  
-先简单把专栏的读者权益写在前面，有想详细了解的朋友，可以往后接着看:
-1.我会每篇提供同一个主题的图片，在 5-10 张左右; 2.专栏更新周期大概是一年，不少于 50 篇，因此图片大概在 300-500 张之间; 3.配合主题，我会介绍风格、艺术家和在 Midjourney 中的使用实例(prompts); 4.提供高清的图片，并放弃版权，可以非商用前提下随意使用;5.加入读者专属的微信群，讨论 Midiourney 的使用，和 AIGC 的动向。  
-
-<img src="pic/Midjourney进阶创意库.jpg" width="30%" height="30%" /> 
--->
 
 ## GPT-4
 【GPT-4】[GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)  
@@ -274,24 +237,3 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 ## 欢迎共建
 【👬🏻】、欢迎👏🏻 Star ⭐️⭐️⭐️⭐️⭐️ && 提交 Pull requests 👏🏻👏🏻👏🏻  
 
-## 推荐科学🪜
-【🪜】[推荐这个，稳定便宜，节点多，速度快，支持MacOS、Windows、安卓、IOS，配置方便](https://sockboom.shop/auth/register?affid=610243)  
-
-
-## 交流共享
-群满加我微信(备注github-ChatGPT), 行路难，感谢老板随意赏~  
-
-<img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="15%" height="15%" /> <img src="pic/dalinvip打赏.jpeg" width="20%" height="20%" />   
-
-
-## 关于我
-大林，NLP/知识图谱算法工程师  
-v: dalinvip2023
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dalinvip/Awesome-ChatGPT&type=Timeline)](https://star-history.com/#dalinvip/Awesome-ChatGPT&Timeline)
-
-# ⚠️声明
-以上资料来自网络整理，供大家学习参考，如有侵权，麻烦联系我删除！  
-v: dalinvip2023  
